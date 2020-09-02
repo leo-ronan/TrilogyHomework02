@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #e3e3e3;
+
+}
+
+.home-content {
+    background-color: white;
+    padding-top: 10px;
+    margin: 50px;
+}
+.home-content h1 {
+    padding-bottom: 5px;
+}
+.home-content img {
+    padding-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.portfolio-content {
+    background-color: white;
+    padding-top: 10px;
+    margin: 50px;
+}
+
+.portfolio-content img{
+    padding-bottom: 10px;
+}
+
+.contact-content{
+    background-color: white;
+    padding-top: 10px;
+    margin: 50px;
+}
+
+.contact-content h1 {
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
